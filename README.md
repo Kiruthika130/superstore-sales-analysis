@@ -1,13 +1,13 @@
-# 🛒 Superstore Sales Analysis
+# Superstore Sales Analysis
 
 A complete analytics project using Python, MySQL, and Power BI to uncover sales and profit trends from the Superstore dataset.
 
-## 🔧 Tools Used
+## Tools Used
 - Python (EDA with Pandas, Seaborn)
 - MySQL (aggregations, joins)
 - Power BI (interactive dashboard)
 
-## 📊 Key Insights
+## Key Insights
 - Top categories and regions by profit
 - Customer segments and shipping trends
 - Year-over-year sales performance
@@ -18,7 +18,7 @@ A complete analytics project using Python, MySQL, and Power BI to uncover sales 
 - `sql/`: SQL queries
 - `powerbi/`: Dashboard file and screenshots
 
-## 🚀 How to Use
+## How to Use
 - Run EDA notebook in Jupyter
 - Execute SQL queries in MySQL
 - Open `.pbix` file in Power BI
